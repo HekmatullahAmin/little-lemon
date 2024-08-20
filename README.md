@@ -28,34 +28,34 @@ LittleLemonApp is an Android application developed as part of the Coursera Andro
 (Include screenshots of your app in use, similar to your previous README.)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7646c45a-829c-44f8-b296-9c77774fbe7b" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/2eaa776b-7920-4045-b7f1-4769f76c403a" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/caba312f-30a8-44ae-86b9-76b7fd59a8e3" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/aef4f07f-5059-4c5b-ba84-7e2225e3934c" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/81b7d6fe-a976-4fe5-8963-65a60204632f" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/b91a152b-5915-4447-897e-88222c58b39d" width="300" height="500">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b63b149-7c00-496b-a891-3ff30a51336d" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/6785c62d-fa10-4ef2-aa38-59249431816d" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/73c6ae83-e233-4e2f-8d2a-49ae3c42481a" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/6f402601-8b83-47a0-b727-12fd3d4528cd" width="300" height="500">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29a8c74d-e175-41e0-901d-944981e42876" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/8555a4ae-0dba-4ad7-b9ec-176ce48a8ded" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/69afae2d-c89c-49c9-9075-c14f6d6cf0b9" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/ab1efefd-ab0b-4828-b68d-537f55b40930" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/31482881-69de-402a-bdc1-f38ddf1ecbe2" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/d531d5ab-d7a8-49b8-b3b8-4addce10d7bb" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/14adfc7f-101c-4a90-92f5-03d8aaebea9a" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/459a05c9-e852-4fb1-b98a-612bdd4e5ef3" width="300" height="500">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8651df45-5de2-4ed7-967f-4c242454af69" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/770c1b34-078d-4289-9568-e4d87a824573" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/9ac52c60-ac60-4018-83de-ada7fe0e33cc" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/791939a4-bd00-4e0b-87f8-bf7516c0d465" width="300" height="500">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20ec6a80-1c3e-4c84-8e7c-19c053293640" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/8a52440b-6dc1-4fdd-9df2-d876753438bd" width="300" height="500">
-  <img src="https://github.com/user-attachments/assets/d067ab40-a7d8-48bd-88c3-425b6d0a8e74" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/033e976d-ccae-4034-a077-caa99668557c" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/abc12408-fe15-49ee-b7ac-3977ce6c5b2a" width="300" height="500">
+  <img src="https://github.com/user-attachments/assets/ac6d288f-bb38-4665-bf39-b01fe34d3144" width="300" height="500">
 </p>
 
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/a2138fd9-e00d-4f3f-9f6c-8fdfc1e08453
+https://github.com/user-attachments/assets/b7b306bf-fa6a-4990-80b7-7619106b6ec7
 
 ## Contributing
 
