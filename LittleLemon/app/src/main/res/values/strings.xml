@@ -1,3 +1,144 @@
 <resources>
-    <string name="app_name">LittleLemon</string>
+    <string name="app_name">Little Lemon</string>
+    <!--    <string name="button_login_label">Log In</string>-->
+    <string name="button_login_label">LOG IN</string>
+    <!--    <string name="button_create_account_label">Create account</string>-->
+    <string name="button_create_account_label">CREATE ACCOUNT</string>
+    <!--    MyLittleLemonApp file-->
+    <string name="snackbar_message">Invalid Credentials</string>
+    <string name="back_button_content_description">Back Button</string>
+
+    <!--    Register Screen-->
+    <string name="first_name_label">First Name</string>
+    <string name="enter_first_name_placeholder">Enter first name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="enter_last_name_placeholder">Enter last name</string>
+    <string name="date_of_birth_label">Date of Birth (optional)</string>
+    <string name="select_date_of_birth_placeholder">mm/dd/yyyy</string>
+    <string name="email_address_label">Email Address</string>
+    <string name="enter_your_email_placeholder">Enter your email</string>
+    <string name="create_password_label">Create Password</string>
+    <string name="enter_your_password_placeholder">Enter your password</string>
+    <!--    TODO: in order to have uppercase text i typed it in the uppercase letter-->
+    <!--    <string name="button_create_my_account_label">Create My Account</string>-->
+    <string name="button_create_my_account_label">CREATE MY ACCOUNT</string>
+    <string name="already_member_label">Already a member?</string>
+    <string name="login_label">Log In</string>
+    <string name="date_picker_confirm_button_text_label">OK</string>
+    <string name="date_picker_dismiss_button_text_label">Cancel</string>
+
+    <!--    Login Screen-->
+    <string name="login_title_label">Login</string>
+    <string name="join_label">Join</string>
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+
+    <!--    Home Screen-->
+    <string name="about_the_app">We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</string>
+    <string name="enter_item_name_placeholder">Enter item name</string>
+    <string name="category_label">Categories</string>
+    <string name="view_cart_label">View cart</string>
+
+    <!--    Menu Item Screen-->
+    <string name="quantity_label">Quantity</string>
+    <string name="increment_content_description">Increment Number of item</string>
+    <string name="decrement_content_description">Decrement Number of item</string>
+    <string name="required_label">Required</string>
+    <string name="choose_spice_level_label">Choose a spice level</string>
+    <string-array name="spice_levels">
+        <item>Mild</item>
+        <item>Medium</item>
+        <item>Hot</item>
+    </string-array>
+    <string name="arrow_down_content_description">Expand</string>
+    <string-array name="sides">
+        <item>Cult Chapati (+ $5.49)</item>
+        <item>Thin Wheat Bread (+ $4.95)</item>
+        <item>Layered Flat Bread (+ $6.59)</item>
+    </string-array>
+    <string name="optional_choices_label">Optional Choices</string>
+    <string name="add_side_label">Add Side</string>
+    <string name="make_required_choice_button_label">Make required choice(s)</string>
+    <string name="add_to_cart">Add to Cart - %s</string>
+    <string name="already_in_cart">Already added</string>
+
+    <!--    My Cart Screen-->
+    <string name="top_app_bar_my_cart_title">My Cart</string>
+    <string name="add_promo_code_label">Add promo code</string>
+    <string name="add_promo_code_arrow_content_description">Add promo code arrow</string>
+    <string name="promo_code_saving_amount">You\'re saving %s with %s</string>
+    <string name="checkout_button_label">Checkout</string>
+    <string name="order_subtotal_label">Order Subtotal</string>
+
+    <!--    Checkout Screen-->
+    <string name="top_app_bar_checkout_title">Checkout</string>
+    <string name="radio_button_pay_by_card_label">Pay by card</string>
+    <string name="radio_button_pay_by_cash_label">Pay by cash</string>
+    <string name="name_on_card_placeholder">Name on card</string>
+    <string name="card_number_placeholder">Card number</string>
+    <string name="expires_end_placeholder">Expires end</string>
+    <string name="cvv_code_placeholder">Enter CVV</string>
+    <string name="delivery_address_label">Delivery address</string>
+    <string name="subtotal_label">Subtotal</string>
+    <string name="delivery_fee_label">Delivery fee</string>
+    <string name="total_label">Total</string>
+    <string name="pay_now_button_label">Pay Now</string>
+
+    <!--    Order Complete Screen-->
+    <string name="order_complete_label">Order Completed!</string>
+    <string name="paid_amount_label">Paid %s</string>
+    <string name="order_again_button_label">Order Again</string>
+
+    <!--    Profile Screen-->
+    <string name="top_app_bar_profile_title">Profile</string>
+    <string name="profile_picture_content_description">Profile Picture</string>
+    <string name="change_profile_picture_content_description">Change Profile Picture</string>
+    <string name="logout_button_label">Logout</string>
+    <string name="welcome_back_label">Welcome back!</string>
+    <string name="edit_label">Edit</string>
+    <string name="personal_details_label">Personal details</string>
+    <string name="account_label">Account</string>
+    <string name="manage_account_label">Manage your name, email, password and address.</string>
+    <string name="settings_label">Settings</string>
+    <string name="theme_label">Theme</string>
+    <string name="choose_a_theme">Choose a theme</string>
+    <string name="manage_account_arrow_content_description">Manage account arrow</string>
+    <string name="choose_a_theme_arrow_content_description">Choose a theme arrow</string>
+
+    <!--    Edit Profile Screen-->
+    <string name="top_app_bar_edit_profile_title">Edit Profile</string>
+    <string name="password_label">Password</string>
+    <string name="address_label">Address</string>
+    <string name="save_text_label">Save</string>
+    <string name="date_of_birth_edit_profile_screen">Date of birth</string>
+
+    <!--    Theme Screen-->
+    <string name="light_theme_label">Light</string>
+    <string name="dark_theme_label">Dark</string>
+    <string name="dynamic_theme_label">Dynamic</string>
+    <string name="selected_theme_content_description">Selected Theme</string>
+
+    <!--    Address Screen-->
+    <string name="top_app_bar_your_addressed_title">Your Addresses</string>
+    <string name="add_address_button_label">Add address</string>
+    <string name="default_address_label">Default</string>
+    <string name="remove_text_button_label">Remove</string>
+    <string name="set_as_default_text_button_label">Set as Default</string>
+
+    <!--    Bottom Sheet Dialog-->
+    <string name="add_new_address_title_label">Add a new address</string>
+    <string name="save_address_button_label">Save address</string>
+    <string name="edit_my_address_title_label">Edit my address</string>
+    <string name="edit_address_button_label">Edit address</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="enter_address_line_one_placeholder">Enter address line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="enter_address_line_two_placeholder">Enter address line 2</string>
+    <string name="city_or_town">City/Town</string>
+    <string name="enter_city_or_town_placeholder">Enter city or town</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="enter_postal_code_placeholder">postal code</string>
+    <string name="country">Country</string>
+    <string name="enter_country_placeholder">Enter country</string>
 </resources>
